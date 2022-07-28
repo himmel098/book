@@ -1,6 +1,7 @@
 <?php
 
 
+
 define( 'APP', 'application' . DIRECTORY_SEPARATOR );
 
 
